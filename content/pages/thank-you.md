@@ -3,9 +3,7 @@ title: Great!
 sections:
   - type: hero_section
     title: Great!
-    subtitle: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+    subtitle: Great
     actions:
       - label: Back to homepage
         url: /
